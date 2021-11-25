@@ -1,0 +1,6 @@
+{
+  "editor.tabSize": 2,
+  "oracledevtools.intellisense.suggestions.keywordCasing": "Lowercase",
+  "oracledevtools.intellisense.suggestions.objectNameCasing": "Lowercase",
+  "oracledevtools.query.resultSet.maxRows": 100
+}
