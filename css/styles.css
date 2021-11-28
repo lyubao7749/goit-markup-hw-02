@@ -68,8 +68,8 @@ a {
   color: var(--second-color-text);
 }
 
-.links .link-text a:hover,
-.links .link-text a:focus,
+.links .link-text:hover,
+.links .link-text:focus,
 .contacts .link-text:hover,
 .contacts .link-text:focus {
   color: var(--accent-color);
